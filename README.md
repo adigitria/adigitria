@@ -34,6 +34,24 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
 - 🧹 Automating data cleaning pipelines in Python
 - 🔍 Exploring open datasets and sharing insights in my [Notebooks](#)
 
+<h3>My projects</h3>
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Application areas</b></td>
+      <td><b>Tools</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+          <td><a href="https://github.com/adigitria/budget-optimization"><b>Website Analytics and Marketing Optimization</b></a></td>
+          <td>IT company, Industry companies, Startups, Services for business [b2b]</td>
+          <td><a href="https://numpy.org">numpy</a> <a href="https://scikit-learn.org/">sklearn</a> <a href="https://pandas.pydata.org/">pandas</a> <a href="https://seaborn.pydata.org/">seaborn</a> <a href="https://matplotlib.org/">matplotlib</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## 📫 Let's Connect
