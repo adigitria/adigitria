@@ -114,10 +114,4 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adigitria&show_icons=true&theme=default)
-
----
-
 *Always curious, always learning.* ✨
