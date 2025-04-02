@@ -118,7 +118,7 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
       <td>SQL, Tableau, Cohort Modeling</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/2_analysis_of_the_effectiveness_of_the_methods"><b>Promotion Effectiveness – "All.of.Cafe"</b></a></td>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/2_analysis_of_the_effectiveness_of_the_methods"><b>Promotion Effectiveness</b></a></td>
       <td>Marketing Analytics, Campaign ROI</td>
       <td>SQL, Tableau, Segmentation Analysis</td>
     </tr>
@@ -128,7 +128,7 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
       <td>RFM, ABC-XYZ Analysis, Funnel Analysis</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/4_a_b_test_of_marketplace_everything_equipment"><b>A/B Test – "Everything.Equipment"</b></a></td>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/4_a_b_test_of_marketplace_everything_equipment"><b>A/B Test of Marketplace</b></a></td>
       <td>Experimentation, E-commerce Strategy</td>
       <td>A/B Testing, Statistical Tests, SQL</td>
     </tr>
