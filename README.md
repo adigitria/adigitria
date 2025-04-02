@@ -32,10 +32,9 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
 
 - 📈 Building an end-to-end marketing funnel analysis tool
 - 🧹 Automating data cleaning pipelines in Python
-- 🔍 Exploring open datasets and sharing insights in my [Notebooks](#)
 
 
-<h3>My Projects</h3>
+<h3>My Data Analysis Projects</h3>
 <table width=100%>
   <thead align="center">
     <tr>
@@ -102,6 +101,40 @@ I'm a **Data Analyst** with over 3 years of experience turning data into actiona
     </tr>
   </tbody>
 </table>
+
+<h3>My Product Analysis Projects</h3>
+<table width=100%>
+  <thead align="center">
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Application Areas</b></td>
+      <td><b>Tools</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/1_cohort_analysis"><b>Cohort Analysis</b></a></td>
+      <td>Customer Analytics, Retention, LTV Modeling</td>
+      <td>SQL, Tableau, Cohort Modeling</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/2_analysis_of_the_effectiveness_of_the_methods"><b>Promotion Effectiveness – "All.of.Cafe"</b></a></td>
+      <td>Marketing Analytics, Campaign ROI</td>
+      <td>SQL, Tableau, Segmentation Analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/3_analysis_of_growth_points"><b>Growth Points Analysis</b></a></td>
+      <td>Conversion Optimization, Partner Network</td>
+      <td>RFM, ABC-XYZ Analysis, Funnel Analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/adigitria/product-analysis-projects/tree/main/4_a_b_test_of_marketplace_everything_equipment"><b>A/B Test – "Everything.Equipment"</b></a></td>
+      <td>Experimentation, E-commerce Strategy</td>
+      <td>A/B Testing, Statistical Tests, SQL</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ---
