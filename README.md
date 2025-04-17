@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** with over 3 years of experience turning data into actionable insights. I specialize in helping businesses make data-driven decisions through deep analysis, clear storytelling, and impactful dashboards.
+I'm a **UX researcher** and **Data Analyst** with 6+ years of experience in product development (B2B/B2C). Skilled in Python, SQL, and big data tools, with a track record of driving product and marketing decisions through data. I have extensive experience in generative and evaluative research methods, customer segmentation, A/B testing, and behavioral analytics. Strong communicator, effective in cross-functional teams and fast-paced environments.
 
 🔍 Strong background in:
 
